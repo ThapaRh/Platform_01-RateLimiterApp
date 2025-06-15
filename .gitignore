@@ -1,0 +1,12 @@
+# Ignore compiled executables
+main
+*.exe
+*.out
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore Go build artifacts
+*.test
+*.prof
